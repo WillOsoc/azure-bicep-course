@@ -6,7 +6,7 @@ trigger: none
 variables:
   resourceGroupName: 'az-eus-woc-devops-lab-RG'
   location: 'eastus'
-  webAppName: 'woc-bicep0017'
+  webAppName: 'wocbicep0017'
   templateFile: '01-bicep-webapp/webapp-linux.bicep'
 
 pool:
